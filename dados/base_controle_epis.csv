@@ -1,0 +1,41 @@
+ID_Registro,Colaborador,Setor,Tipo_EPI,Data_Entrega,Data_Validade,Status_Troca
+EPI-1001,Beatriz Lima,Almoxarifado,Máscara Semifacial PFF2,2025-05-09,2025-11-05,Vencido
+EPI-1002,João da Silva,Logística,Máscara Semifacial PFF2,2025-09-30,2026-09-30,Troca Necessária
+EPI-1003,Mariana Carvalho,Obras,Botina de Segurança com Biqueira,2025-08-16,2026-08-16,Troca Necessária
+EPI-1004,Rafael Ribeiro,Logística,Máscara Semifacial PFF2,2025-07-21,2027-07-21,Regular
+EPI-1005,Carlos Souza,Almoxarifado,Luva Nitrílica,2025-10-23,2026-10-23,Regular
+EPI-1006,Maria Oliveira,,Óculos de Proteção Incolor,2025-01-24,2026-01-24,Vencido
+EPI-1007,Rodrigo Barbosa,Manutenção,Capacete de Segurança aba total,2025-04-27,2025-10-24,Troca Necessária
+EPI-1008,Rafael Ribeiro,Manutenção,Botina de Segurança com Biqueira,2025-11-10,2027-11-10,Regular
+EPI-1009,Camila Martins,Obras,Óculos de Proteção Incolor,2025-03-28,2025-06-26,Vencido
+EPI-1010,Maria Oliveira,Almoxarifado,Luva de Proteção em Raspa,2025-08-23,2027-08-23,Troca Necessária
+EPI-1011,Maria Oliveira,Logística,Luva de Proteção em Raspa,2025-04-06,2025-07-05,Troca Necessária
+EPI-1012,Rodrigo Barbosa,Produção,Botina de Segurança com Biqueira,2025-05-22,2025-11-18,Vencido
+EPI-1013,Ana Santos,Produção,Luva de Proteção em Raspa,2025-01-28,2026-01-28,
+EPI-1014,Beatriz Lima,Almoxarifado,Óculos de Proteção Incolor,2025-11-27,2026-02-25,Vencido
+EPI-1015,Rafael Ribeiro,Manutenção,Luva Nitrílica,2025-11-25,2026-05-24,Vencido
+EPI-1016,Lucas Pereira,Logística,Luva de Proteção em Raspa,2025-04-22,2026-04-22,Vencido
+EPI-1017,Pedro Lima,Logística,Luva Nitrílica,2025-05-20,2025-11-16,Troca Necessária
+EPI-1018,Gabriel Rodrigues,Manutenção,Luva Nitrílica,2025-09-28,2026-09-28,Vencido
+EPI-1019,Ana Santos,Qualidade,Botina de Segurança com Biqueira,2024-12-04,2025-03-04,Troca Necessária
+EPI-1020,Beatriz Lima,Manutenção,Capacete de Segurança aba total,2025-07-09,2026-07-09,Vencido
+EPI-1021,Rafael Ribeiro,Qualidade,Luva de Proteção em Raspa,2025-03-12,2026-03-12,Vencido
+EPI-1022,Rodrigo Barbosa,Obras,Luva de Proteção em Raspa,2025-04-20,2027-04-20,Regular
+EPI-1023,Mariana Carvalho,Logística,Botina de Segurança com Biqueira,2025-01-07,2026-01-07,Vencido
+EPI-1024,Camila Martins,Almoxarifado,Máscara Semifacial PFF2,2025-08-07,2025-11-05,Vencido
+EPI-1025,Gabriel Rodrigues,Produção,Protetor Auricular tipo Concha,2025-05-22,2027-05-22,Troca Necessária
+EPI-1026,Maria Oliveira,Logística,Cinto de Segurança tipo Paraquedista,2025-06-30,2025-12-27,Vencido
+EPI-1027,Gabriel Rodrigues,Produção,Capacete de Segurança aba total,2025-09-26,2026-09-26,Vencido
+EPI-1028,João da Silva,Logística,Luva Nitrílica,2024-12-07,2025-12-07,Troca Necessária
+EPI-1029,Rodrigo Barbosa,Qualidade,Capacete de Segurança aba total,2025-01-26,2027-01-26,Regular
+EPI-1030,Lucas Pereira,Obras,Protetor Auricular tipo Concha,2025-10-04,2027-10-04,Regular
+EPI-1031,João da Silva,Qualidade,Protetor Auricular tipo Concha,2024-12-12,2025-06-10,Troca Necessária
+EPI-1032,Maria Oliveira,Obras,Máscara Semifacial PFF2,2025-06-20,2026-06-20,Vencido
+EPI-1033,Mariana Carvalho,Logística,Luva de Proteção em Raspa,2025-11-12,2027-11-12,Regular
+EPI-1034,João da Silva,Logística,Cinto de Segurança tipo Paraquedista,2025-02-18,2025-05-19,Vencido
+EPI-1035,Lucas Pereira,Produção,Luva de Proteção em Raspa,2025-05-18,2025-11-14,Vencido
+EPI-1036,Thiago Rocha,Almoxarifado,Luva de Proteção em Raspa,2025-10-30,2026-10-30,Regular
+EPI-1037,Rafael Ribeiro,Qualidade,Máscara Semifacial PFF2,2025-05-23,2027-05-23,Troca Necessária
+EPI-1038,Maria Oliveira,Obras,Botina de Segurança com Biqueira,2025-05-08,2027-05-08,Troca Necessária
+EPI-1039,Juliana Alves,Qualidade,Luva de Proteção em Raspa,2025-03-20,2026-03-20,Vencido
+EPI-1040,Juliana Alves,Qualidade,Capacete de Segurança aba total,2025-03-26,2027-03-26,Regular
